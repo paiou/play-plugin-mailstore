@@ -1,0 +1,2 @@
+play-plugin-mailstore
+=====================
